@@ -1,7 +1,7 @@
 ---
-title: "Lifespan is Effected by Sex: Cemetary Lifespan Report"
-author: "Violet Levine"
-date: "10/15/2026"
+title: ""
+author: ""
+date: ""
 format:
   pdf:
     pdf-engine: xelatex
