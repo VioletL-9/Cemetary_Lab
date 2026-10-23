@@ -136,13 +136,12 @@ Violet Levine \textsuperscript{1,*}
     \vspace{3pt}
 
     \textbf{Results:}
-    [Summarize the principal patterns in the class data.]
+    The study found compelling evidence to point towards females having higher survivorhip, and therefore longer lifespans, than males.
 
     \vspace{3pt}
 
     \textbf{Conclusions:}
-    [State what the observed patterns suggest and note limitations. Distinguish
-    lifespan in this cemetery sample from population life expectancy.]
+    This pattern towards higher survivorship in females suggests further research is needed to determine the exact reasons for higher survivorship rates. The reasons for this survivorship pattern are likely complex and require further examination to draw accurate conclusions about what this can mean for the global population's life expectancy. It is only in this cemetery that a pattern for life expectancy has been established. 
 
     \vspace{3pt}
 
@@ -188,58 +187,47 @@ I hypothesized that women would have a greater lifespan than men in this sample 
 
 ## Field Site and Sampling
 
-- **Location:** We went to Sunset Hill Cemetery in Valdosta, Georgia next to Valdosta State University's campus on Thursday October 8th. We stayed near the entrance of the cemetery and split up by the gate. 
-- **Date & Time of Day:** On October 8th we started our investigation in the cemetary around 2:30 pm and we finished around 4:30 pm. The weather was clear and suitable for our field work.
-- **Part of Cemetery Sampled:** I sampled the South East section of the cemetary in rows.
-- **Grave Selection:** Sampling was based on how legible the markings of each grave was. Besides that grave selection was random and done by completeing rows.
-- **Process of Data Collection for Nearby Graves & Family Plots:** Neighboring graves such as family plots were recorded. Few family plots were found in my section and mainly comprised of married couples. So, there was no overabundance of the same families in my sample.
+- **Location:** We went to Sunset Hill Cemetery in Valdosta, Georgia, next to Valdosta State University’s campus on Thursday, October 8th. We stayed near the entrance of the cemetery and split up by the gate.
+- **Date & Time of Day:** On October 8th, we started our investigation in the cemetery around 2:30 pm, and we finished around 4:30 pm. The weather was clear and suitable for our fieldwork.
+- **Part of Cemetery Sampled:** I sampled the southeast section of the cemetery in rows.
+- **Grave Selection:** Sampling was based on how legible the markings of each grave were. Besides that, grave selection was random and done by completing rows.
+- **Process of Data Collection for Nearby Graves & Family Plots:** Neighboring graves, such as family plots, were recorded. Few family plots were found in my section and mainly comprised of married couples. So, there was no overabundance of the same families in my sample.
 
 ## Recorded information and variable definitions
 
 - **Information Collected from Each Marker:** Data collected from each marker included name, birth date, date death, sex, marriage status, and veteran status. 
-- **Calculation of Lifespan:** Lifespan was calculated from subtracting birth year from the death year. Partial dates were not recorded.
-- **Determination of Maritial Status:** Maritial Status was determined through joint graves with the same last names or writing containing "Husband and Wife."
-- **Determination of Military Service:** [Describe explicit evidence such as service branch, rank, unit, or veteran symbols. Explain how uncertain cases were coded.] Evidence of military service was only recorded if ranks were etched on the grave.
-- **Determination of Sex or Gender:** Sex was determined through explicit titles like wife, mother, sister, etc. being used. If no title was found then an inference was made based on naming conventions.
-- **Handling of Missing, Lllegible, or Ambiguous Records:** Any name or date that was ambigious for our records was excluded.
+- **Calculation of Lifespan:** Lifespan was calculated by subtracting birth year from the death year. Partial dates were not recorded.
+- **Determination of Marital Status:** Marital Status was determined through joint graves with the same last names or writing containing "Husband and Wife."
+- **Determination of Military Service:** Evidence of military service was only recorded if ranks were etched on the grave.
+- **Determination of Sex or Gender:** Sex was determined through explicit titles like wife, mother, sister, etc. being used. If no title was found, then an inference was made based on naming conventions.
+- **Handling of Missing, Illegible, or Ambiguous Records:** Any name or date that was ambiguous in our records was excluded.
 
 ## Dataset and analysis
 
 - **Total Records Collected:** 32 records were collected by me.
-- **Amount of Records Included in the Final Analysis:** 30 records were included in the final analysis. 2 were excluded due to no death dates or having a missing family name.
+- **Amount of Records Included in the Final Analysis:** 30 records were included in the final analysis. 2 were excluded due to no death dates or a missing family name.
 - **Aggregation of Records with Class Dataset:** Yes, my records were aggregated to the class dataset. Our professor, Dr. Hendrickson, sorted and got rid of any duplicates found in this dataset. 
-- **Summaries or Plots Produced:** [Describe group summaries and empirical survivorship curves, including how categories were defined.] Our sample shows relationships between survivorship and birth period, sex, martial status, and military status. A positive relationship exsists between each category and shows a correlation in both factors. 
-- **Limitations of the Sample:** Limitations of the sample include damage to graves reducing sample size, imcomplete dates, uneven documentation, possible inaccuracies in sex due to naming conventions, and not being able to document military service on graves that don't mention service.  
+- **Summaries or Plots Produced:** Our sample shows relationships between survivorship and birth period, sex, martial status, and military status. A positive relationship exists between each category and shows a correlation in both factors. 
+- **Limitations of the Sample:** Limitations of the sample include damage to graves reducing sample size, incomplete dates, uneven documentation, possible inaccuracies in sex due to naming conventions, and not being able to document military service on graves that don't mention service.  
 
 # Results
-
-**Replace each image placeholder with a PNG of the matching plot from the final class dataset. Keep figures in the `survivorship_curves` and `cemetery_lifespan_report_files` folder, or update the image path in the Markdown. The figure captions are editable and should describe the plotted groups, axes, and relevant reference lines.**
-
-**Summarize the data both by referencing @fig-summary and by writing out what the table is displaying specific to your particular research hypothesis. For instance, if you are interested only in marriage status and sex, then report the mean and standard deviation of males and females that are married vs unmarried; you do not need to discuss military status unless this is part of your research question/hypothesis.**
-
-The summary table in @fig-sex shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 62.2 years (SD = 23; n = 410), compared with 71.1 years (SD = 23.0; n = 342) for females. These relatively small subgroup sizes make the values descriptive; they do not support broad conclusions about sex. More data would be needed to draw a conclusion.*
-
 ![Summary of lifespan by sex.](lifespan_tables/sex.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
 
-*The sex-specific survivorship curves in @fig-sex show a different pattern: the plotted means are 62.2 years for males and 71.1 years for females. The female curve remains higher through much of the earlier and middle lifespan, while the male curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.*
+*The summary table in @fig-sex shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 62.2 years (SD = 23; n = 410), compared with 71.1 years (SD = 23.0; n = 342) for females. The relatively large subgroup sizes supports a reasonable pattern for further study.*
 
 ![Survivorship curves by sex. The y-axis shows the percentage of the cemetery sample surviving to each lifespan. Dotted vertical lines mark the median lifespan for each sex, where the curve reaches 50%.](survivorship_curves/survivorship_by_sex.png){#fig-sex width=70% fig-pos="t" fig-env="figure*"}
 
-*The within-sex comparisons in @fig-married show higher plotted mean lifespans for married than unmarried individuals in both panels. For males, the plotted means are 64.3 years for married individuals and 55.4 years for unmarried individuals. For females, they are 64.3 and 46.3 years, respectively. The curves also place the 50% survival point later for the married groups. These are descriptive differences and should not be interpreted as evidence that marriage caused longer lifespan; other factors and the sizes and composition of the groups could contribute.*
+*The sex-specific survivorship curves in @fig-sex show a similar pattern: the plotted means are 62.2 years for males and 71.1 years for females. The female curve remains higher through much of the earlier and middle lifespan, while the male curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.*
 
-![Survivorship by marital status, with separate male and female panels. Dotted vertical lines mark the median lifespan for each marital-status group, where the curve reaches 50%.](survivorship_curves/survivorship_married_by_sex_combined.png){#fig-married width=70% fig-pos="t" fig-env="figure*"}
-
-**Summary of Observed Results:** [Describe the main pattern, sample size for each comparison, and any uncertainty or missing-data issue. Refer to the figures by number. Do not infer causation from group differences.]
+**Summary of Observed Results:** The pattern for sex as a factor for lifespans is clear. From the recorded instances, females typically have a higher liklyhood to survive at each stage of life than males. Even with a slanted sample size (m = 410, f = 342, t = 752), males still display a higher liklyhood of dying at different stages of life than females. The mean for 50% survivorship is at 71.1 for females and 62.2 for males, so, on average, more women survive longer than men. The only time either sex has a similar liklyhood to die is around the newborn/infant stage. 
 
 # Discussion
 
-**Sex and lifespan.** Research on sex differences in longevity points to a combination of biological, behavioral, and social influences rather than a single explanation. Austad and Fischer review evidence on sex differences in lifespan and aging across species, including humans [@austadSexDifferencesLifespan2016]. In this cemetery sample, the observed female and male curves [describe the pattern] and [support / do not support] the prediction that [state your hypothesis]. The result should be interpreted in the context of this cemetery’s birth cohorts and sampling process; it is not by itself an estimate of a general sex difference in lifespan.
+**Sex and Lifespan:** Research on sex differences in longevity points to a combination of biological, behavioral, and social influences rather than a single explanation. So, the reason for men to be more likely to die than women is due to a plethora of factors that are hard to narrow down in research. In this cemetery sample, the observed female and male curves stay close but are consistently higher in women and support the prediction that women have a higher lifespan than men. The result should be interpreted in the context of this cemetery’s birth cohorts and sampling process; it is not by itself an estimate of a general sex difference in lifespan.
 
-**Marital status and social relationships.** Marriage can correlate with social support, health behaviors, household resources, and social integration, but people’s health can also influence whether they marry or remain married. A large meta-analysis found associations between unmarried status and mortality, with some associations differing by sex [@wangSexDifferencesAssociation2020]; a broader meta-analysis linked social relationships with mortality risk [@holt-lunstadSocialRelationshipsMortality2010]. In this dataset, the comparison of married and not-married records among [men / women / both] showed [describe results]. These cemetery records do not measure relationship quality, social contact, or the timing and duration of marriage, so marital status should be treated as an imperfect indicator rather than a direct measure of socialization or a cause of longevity.
+**Limitations and next steps:** This study has a relatively good sample size of 752 total graves marked. The limitations of this study do include issues with recording data and potential bias of the cemetery location and demographics of those buried there. There is missing and incomplete data that was taken out of the study due to not providing the needed information. This was rare but must still be noted. The demographics of the cemetery must also be taken into account, with the time periods of those buried taking place mainly before and after the 1930s and the cemetery located in South Georgia. There are also issues with family clustering in the cemetery.
 
-**Historical changes in lifespan and childhood survival.** Life expectancy at birth is strongly affected by deaths in infancy and childhood, so a low historical average does not mean that every adult died young. Improvements in clean water and sanitation contributed substantially to mortality declines in the United States during the twentieth century, especially for infants and children [@cutlerRolePublicHealth2005]. The birth-period pattern in this sample [describe results] may be consistent with changing survival conditions, but birth year alone cannot identify which changes mattered. Vaccination, nutrition, medical care, living conditions, and the incomplete representation of people in cemetery records may also contribute to differences across cohorts.
-
-**Limitations and next steps:** [Discuss sample size, missing or inferred data, cemetery representation, family clustering, survivorship bias, and what additional evidence would strengthen the analysis.]
+Despite the previous limitations, the sample size and results of the study do provide a compelling argument for further research. There seem to be many reasons for sex-based survivorship that would require further study, but the pattern is there, and more research could be done on this subject.
 
 ```{=latex}
 \newpage
